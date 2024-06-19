@@ -1,0 +1,6 @@
+#ignore tout les password.txt dans subfolder
+/subfolder/password.txt
+folder2/subfolder/password.txt 
+
+#tout les fichier correspondant a .txt
+*.txt
